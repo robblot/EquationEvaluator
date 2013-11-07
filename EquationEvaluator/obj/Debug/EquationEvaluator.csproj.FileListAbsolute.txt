@@ -1,0 +1,1 @@
+C:\Users\robblot\Documents\GitHub\EquationEvaluator\EquationEvaluator\bin\Debug\EquationEvaluator.exe.config
